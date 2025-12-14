@@ -1,0 +1,25 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+
+# Editor/IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Go
+# Binaries
+*.exe
+*.test
+*.prof
+*.dll
+*.so
+*.dylib
+
+# Rust
+/rust/target/
+**/*.rs.bk
+debug/
+release/
